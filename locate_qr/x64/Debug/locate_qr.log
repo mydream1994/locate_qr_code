@@ -1,0 +1,19 @@
+﻿生成启动时间为 2018/5/24 星期四 16:34:56。
+     1>项目“E:\OpenCV_test\locate_qr\locate_qr\locate_qr\locate_qr.vcxproj”在节点 2 上(Build 个目标)。
+     1>ClCompile:
+         E:\VS2015\VC\bin\x86_amd64\CL.exe /c /ZI /nologo /W3 /WX- /Od /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"x64\Debug\\" /Fd"x64\Debug\vc140.pdb" /Gd /TP /errorReport:prompt test.cpp
+         test.cpp
+     1>e:\opencv_3.2\opencv\build\include\opencv2\core\mat.hpp(2586): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+     1>e:\opencv_3.2\opencv\build\include\opencv2\core\persistence.hpp : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+     1>e:\opencv_3.2\opencv\build\include\opencv2\core\utility.hpp : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+     1>e:\opencv_3.2\opencv\build\include\opencv2\core\utility.hpp : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+     1>e:\opencv_3.2\opencv\build\include\opencv2\imgproc.hpp(592): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+     1>e:\opencv_test\locate_qr\locate_qr\locate_qr\test.cpp(14): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+       Link:
+         E:\VS2015\VC\bin\x86_amd64\link.exe /ERRORREPORT:PROMPT /OUT:"E:\OpenCV_test\locate_qr\locate_qr\x64\Debug\locate_qr.exe" /INCREMENTAL /NOLOGO opencv_world320d.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /Debug /PDB:"E:\OpenCV_test\locate_qr\locate_qr\x64\Debug\locate_qr.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"E:\OpenCV_test\locate_qr\locate_qr\x64\Debug\locate_qr.lib" /MACHINE:X64 x64\Debug\test.obj
+         locate_qr.vcxproj -> E:\OpenCV_test\locate_qr\locate_qr\x64\Debug\locate_qr.exe
+     1>已完成生成项目“E:\OpenCV_test\locate_qr\locate_qr\locate_qr\locate_qr.vcxproj”(Build 个目标)的操作。
+
+已成功生成。
+
+已用时间 00:00:02.85
